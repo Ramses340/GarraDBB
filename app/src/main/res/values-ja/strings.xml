@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ガーラ</string>
+    <string name="text_new">新しい動物の登録</string>
+    <string name="text_list">動物を表示</string>
+    <string name="text_name">動物の名前を入力してください：</string>
+    <string name="text_save">保存</string>
+    <string name="text_especie">種別：</string>
+    <string name="text_skills">スキル：</string>
+    <string name="text_eliminar_todos">すべての動物を削除</string>
+</resources>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Garra</string>
+    <string name="text_new">Novo registro de animal</string>
+    <string name="text_list">Consultar animais</string>
+    <string name="text_name">Digite o nome do animal:</string>
+    <string name="text_save">Salvar</string>
+    <string name="text_especie">Espécie:</string>
+    <string name="text_skills">Habilidades:</string>
+    <string name="text_eliminar_todos">Excluir todos os animais</string>
+</resources>
