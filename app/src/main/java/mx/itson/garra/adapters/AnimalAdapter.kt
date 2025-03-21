@@ -35,13 +35,13 @@ class AnimalAdapter(
         try {
             val animal = getItem(position) as Animal
 
-            val txtName: TextView = elemento.findViewById(R.id.animal_nombre)
+            val txtName: TextView = elemento.findViewById(R.id.txt_name)
             txtName.text = "Nombre: " + animal.nombre
 
-            val txtEspecie: TextView = elemento.findViewById(R.id.animal_especie)
+            val txtEspecie: TextView = elemento.findViewById(R.id.txt_especie)
             txtEspecie.text = "Especie: " + animal.especie
 
-            val txtHabilidades: TextView = elemento.findViewById(R.id.animal_habilidades)
+            val txtHabilidades: TextView = elemento.findViewById(R.id.txt_skills)
             txtHabilidades.text = "Habilidades: " + animal.habilidades
 
         } catch(ex: Exception) {

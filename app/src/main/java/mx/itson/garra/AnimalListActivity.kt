@@ -45,6 +45,6 @@ class AnimalListActivity : AppCompatActivity() {
         val vibrator = getSystemService(Vibrator::class.java)
         vibrator?.vibrate(VibrationEffect.createOneShot(200, VibrationEffect.DEFAULT_AMPLITUDE))
     }
-
+//e
 }
 
